@@ -1,4 +1,4 @@
-# Defensive wireless Lab
+# Defensive Wireless Lab
 
 ## Overview
 This repository documents an isolated wireless security lab designed to demonstrate the detection and mitigation of wireless threats specifically focusing on management frame vulnerabilities (such as deauthentication floods and Evil Twin attacks).
